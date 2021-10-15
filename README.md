@@ -2,4 +2,4 @@
 
  - 🏠 Kilrush, Ireland
  - 📍 San Francisco, CA
- - 💼 Software Engineer at Modern Treasury - [Check out our open roles](https://angel.co/company/moderntreasury/jobs)
+ - 💼 Software Engineer at Modern Treasury - [Check out our open roles](https://www.moderntreasury.com/careers)
